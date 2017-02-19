@@ -1,0 +1,136 @@
+<resources>
+
+    <string name="app_name">TechSenze</string>
+
+    <string name="image">Image</string>
+
+    <string name="skip">Skip</string>
+
+    <string name="username">Full Name</string>
+
+    <string name="mobile">Mobile</string>
+
+    <string name="email">Email</string>
+
+    <string name="register">REGISTER</string>
+
+    <string name="ourteam">Our Team</string>
+
+    <string name="aboutus">About Us</string>
+
+    <string name="developer">About Developer</string>
+
+    <string name="techoneheader">i-Got Idea</string>
+    <string name="techonemain">Let The Mind Write Your Paper, Not The Hand</string>
+
+    <string name="techtwoheader">Developer@Work</string>
+    <string name="techtwomain">For All Coding Geeks In Town</string>
+
+    <string name="techthreeheader">Tech-Teach</string>
+    <string name="techthreemain">Where Imitating Your Professor Becomes Legal</string>
+
+    <string name="techfourheader">Unscramble</string>
+    <string name="techfourmain">Time To Find The K-D’ Bugger</string>
+
+    <string name="techfiveheader">Yourpage.in</string>
+    <string name="techfivemain">Designing Is Not Just For Architects</string>
+
+    <string name="techsixheader">Sharp Senze</string>
+    <string name="techsixmain">Point For Smart Workers</string>
+
+    <string name="techsevenheader">Tech-Whiz</string>
+    <string name="techsevenmain">When Technical Turns Vibrant</string>
+
+    <string name="techeightheader">Blackjack</string>
+    <string name="techeightmain">Expect The Unexpected</string>
+
+
+    <string name="nontechoneheader">Film Strip</string>
+    <string name="nontechonemain">Blow Away Our Audience</string>
+
+    <string name="nontechtwoheader">Minute Mania</string>
+    <string name="nontechtwomain">Nail Biters Check In</string>
+
+    <string name="nontechthreeheader">Step Up</string>
+    <string name="nontechthreemain">Let Your Feet Shake To Our Numbers!</string>
+
+    <string name="nontechfourheader">#Ad-Fie</string>
+    <string name="nontechfourmain">Hashtags Beyond Infinity</string>
+
+    <string name="nontechfiveheader">Hit \'n\' Run</string>
+    <string name="nontechfivemain">Unravel The Dhoni In You</string>
+
+    <string name="nontechsixheader">Soccer Squad</string>
+    <string name="nontechsixmain">Winning Isn’t Everything. It’s The Only Thing</string>
+
+    <string name="nontechsevenheader">Gaming</string>
+    <string name="nontechsevenmain">A Place Where SHIT Becomes REAL</string>
+
+    <string name="nontecheightheader">Meme Master</string>
+    <string name="nontecheightmain">The Trending Guys On Facebook</string>
+
+
+    <string name="onlineoneheader">Click Senze</string>
+    <string name="onlineonemain">The Eye Should Learn To LISTEN Before It Looks</string>
+
+    <string name="onlinetwoheader">App Wizard</string>
+    <string name="onlinetwomain">Be A Serious Part Of The PLAYSTORE</string>
+
+    <string name="onlinethreeheader">Mannequin Challenge</string>
+    <string name="onlinethreemain">A VIRAL Internet Video Trend</string>
+
+
+    <string name="videopromo">Our Promo Video For This Year Is Out. Make Sure You Watch It!</string>
+
+    <string name="registration">We Are Now Accepting Registration For All Events. Buzz On As Soon As Possible!</string>
+
+    <string name="newsone">TechSenZe 2K18 Is Postponed From 11st February To 23 February Due To Administrative Issue. Sorry For The Inconvenience Caused.</string>
+
+    <string name="newstwo">Unfortunately, The Event Had To Be Postponed. Stay Tuned For Updates.</string>
+
+    <string name="newsthree">Event List Is Updated. New Fun Events Included. Online Events Introduced.</string>
+
+    <string name="newsfour">Our Android App Is Updated. Please Download The Latest Build From The Play Store.</string>
+
+    <string name="newsfive">We Are Proud To Announce Our New Sponsor List.</string>
+
+    <string name="newssix">This Is TechSenZe\'s Official News Update Site. Check Regularly For All Event Updates.</string>
+
+    <string name="technical">TECHNICAL EVENTS</string>
+
+    <string name="nontechnical">NON-TECHNICAL EVENTS</string>
+
+    <string name="online">ONLINE EVENTS</string>
+
+
+
+    <string name="aboutevent">Technocracy Sensitizers Zenith, commonly called as TechSenZe , is a National Level Technical Symposium organized by the Computer Science Department of Meenakshi College of Engineering. Being a Cupcake in 2011, we have updated ourselves in versions and as Nougat now, we present you \'TechSenZe 2k17\' on Feb 23rd 2017.
+
+With a medley of both Esoteric and Non-Esoteric events, we provide a platform where you can pitch in with your buddies and win exhilarating prizes. To add spices, we are inviting some leading lights to our campus on the same day. Surprise events and shows are also waiting to widen your eyes.
+
+This year, we take pride in saying that we are not collecting any registration fees and are ready to treat your heart and mind with a breath-stopping show. The fest starts at 9 am and be on time to get amazed. Have your seats registered as we are looking forward to meet each one of you.</string>
+
+
+    <string name="aboutcollege">Meenakshi College of Engineering is an institution of higher education in the liberal engineering devoted to the intrinsic value of intellectual pursuit. It is governed by the highest standards of scholarly practice, critical thought and creativity.
+
+Our education balances broad study in the various areas of human knowledge and a structured, in-depth study in the academic discipline through degree requirements established by the faculty. The educational program is characterized by close interaction of students and faculty in an atmosphere of shared intellectual scholarly concerned and active learning. Conference and Laboratory classes are the norm providing students the opportunity to demonstrate intellectual initiative and creative engagement.
+
+To ensure the highest quality education for its students, the college supports and encourages scholarly research by the faculty and the application of such scholarships throughout the teaching program.
+
+Computer Science and Engineering, being a major department is steadily striving to maintain the highest standard of academics and extracurricular excellence. We are glad to share that our students secured university ranks – 2 from M.E in 2012, 4 in 2013, 6 in 2014 And 2015, 4 in 2016 and 2 from UG in 2014 and 1 in 2015.
+
+The college campus is located at the heart of Chennai city and easily accessible from different parts of the suburbs also.</string>
+
+    <string name="reach">How to reach us:
+
+Via Bus: Virugambakkam bus stop: 37E, 37G, 11H, 49A, 49B, 25G, 27C
+Via Train: Reach Vadapalani Metro Rail Station and catch any share auto/bus to Virugambakkam bus stop, which is available outside the station.</string>
+
+
+    <string name="aboutdeveloper">Hey! My Name Is Rishabh Singh, A First Year Student, Pursuing B.Tech In CSE From SRM University.</string>
+
+    <string name="purpose">This App Is An Entry For The \'App Wizard\' Event In TechSenZe 2K17, Held On 23rd Of February, 2017 In Meenakshi College Of Engineering. Submitted On 18th February. It Is Purely Meant For Competitive Purposes. It Shall Not And Must Not Be Reused For Any Other Purpose. Thank You. </string>
+
+    <string name="devemail">For Any Queries Regarding This App, I Can Be Contacted On pingrishabh@gmail.com </string>
+
+</resources>

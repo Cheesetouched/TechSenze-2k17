@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\gregh_000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_ad27da9b01584d055302147ca52b6503a2bf597b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="304a2c52943b243561a9919463371b67cc5e49b5">
+        <dex dex="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5a0dbfa2b435b91fcd61a6b32aaec8911e82932a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_499e1859ef686d245aa27c072b42d5d01cd0566e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_f07a3851c0f957a63e59ead0ff0df6d9cc5b4f64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.1_4cd733ceaadefdebdd6b4d3a8998e661db0e784c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.1.0_701f605e3447924930ccdeca90cf2de8382d4af4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_726fccb8f0b27a968afb21252ccd43a048613b39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_dbe6fbaa0662836b4d7439f12625c870ad7ca9f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_2389026d02708a1f5b29c6e27a0e8824bf87404d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_80972d7e7ded17b9faa4c7af6e0585e0578ed8a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_6bc5dbca566e01cac4437dd4d282fce69b6801b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_d37e6dfdaf8f4b5edefe7cbf609cab5a1657f570\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_5333a2e8493ab7ca61ddd9da50267dd839c5dfb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.1_b2db1791ee7d4c326cfc8033543530c15e01062e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_40fd8006cd2477a5f05068b8da681206488ccef6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_8267366fd562a8d8264b21d78714ca430d9b21d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\exploded-aar\com.github.paolorotolo\appintro\4.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="461cd433c2723981c7536d60acfcf3d86f3105fb">
+        <dex dex="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.paolorotolo-appintro-4.1.0_3d675bd8af18132a54f06ccce24a328207303e55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_4f01bb4b8c3ac4a66261535eec5fab5b0be2e6dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_abe908907eb947fc49f0fb8a3ff13a434906c769\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_c54613bfff063e01c787519363507312d8dc5133\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_51841538dfd289a228fd618c7f207170e4933278\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bee29ee900b229578b12c9f183ae7445e2e76fda">
+        <dex dex="C:\Users\gregh_000\Desktop\Github\TechSenze\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ac3c0e42aed793f8873d772cf6302bcf39867cb1\classes.dex" />
+    </item>
+
+</items>
